@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/LBR_Interview.Data/bin/Debug
+/LBR_Interview.Data/obj
+/LBR_Interview.Web/bin
+/LBR_Interview.Web/obj
+/LBR_Interview.WebTests/bin/Debug
+/LBR_Interview.WebTests/obj
+/packages
