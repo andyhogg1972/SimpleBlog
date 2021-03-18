@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31025.194
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleBlog.Data", "LBR_Interview.Data\SimpleBlog.Data.csproj", "{257481DF-480C-48EE-8969-19CB7753F969}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleBlog.Data", "SimpleBlog.Data\SimpleBlog.Data.csproj", "{257481DF-480C-48EE-8969-19CB7753F969}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleBlog.Web", "LBR_Interview.Web\SimpleBlog.Web.csproj", "{4FA919DA-67A8-4295-A5C7-CE99AF0B3AFB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleBlog.Web", "SimpleBlog.Web\SimpleBlog.Web.csproj", "{4FA919DA-67A8-4295-A5C7-CE99AF0B3AFB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleBlog.Tests", "LBR_Interview.WebTests\SimpleBlog.Tests.csproj", "{8F8202EC-5253-4998-AF34-3837C3942D88}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleBlog.Tests", "SimpleBlog.Tests\SimpleBlog.Tests.csproj", "{8F8202EC-5253-4998-AF34-3837C3942D88}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

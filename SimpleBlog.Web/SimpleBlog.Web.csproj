@@ -260,7 +260,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\LBR_Interview.Data\SimpleBlog.Data.csproj">
+    <ProjectReference Include="..\SimpleBlog.Data\SimpleBlog.Data.csproj">
       <Project>{257481df-480c-48ee-8969-19cb7753f969}</Project>
       <Name>SimpleBlog.Data</Name>
     </ProjectReference>

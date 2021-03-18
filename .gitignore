@@ -9,3 +9,9 @@
 /LBR_Interview.WebTests/bin/Debug
 /LBR_Interview.WebTests/obj
 /packages
+/SimpleBlog.Web/obj/Debug
+/SimpleBlog.Web/bin
+/SimpleBlog.Tests/obj/Debug
+/SimpleBlog.Tests/bin/Debug
+/SimpleBlog.Data/obj/Debug
+/SimpleBlog.Data/bin/Debug
